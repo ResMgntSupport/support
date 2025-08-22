@@ -8,7 +8,7 @@ Please ensure your device meets the system requirements and download the app fro
 **- Customization:** You can customize clock dials in App, changes will sync to clock widgets.<br>
 **- Change Appearance:** Show or hide digital display beneath the clock dail, show or hide second hand...more to be explored.
 ## Pomodoro
-Pomodoro function can help you track daily routines, such as reading, studying, cooking, fitness, etc. A gradient background imitating the maturation of fruit or vegetable directly tells time-remaining.
+Pomodoro function can help you track daily routines, such as reading, studying, cooking, fitness, etc. A gradient background imitating the maturation of fruit or vegetable directly tells time-remaining.<br>
 **- Duration Picker:** Once you set a focus duration and click START, any later focus label will also use this duration, unless you change it again.<br>
 **- End Focus Session:** Besides manually click END to end a focus session, note that changing label during the running focus session leads to the same result.<br>
 **- Color Stacks on Calendar:** The height of color stack represents the proportion of each focus label on the selected day.<br>
